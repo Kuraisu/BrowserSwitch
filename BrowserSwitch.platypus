@@ -11,7 +11,9 @@
 	<key>Author</key>
 	<string>Aleksei Ermakov</string>
 	<key>BundledFiles</key>
-	<array/>
+	<array>
+		<string>/Users/chryse/Proj/BrowserSwitch/checks.json</string>
+	</array>
 	<key>Creator</key>
 	<string>Platypus-5.2</string>
 	<key>DeclareService</key>
@@ -53,7 +55,7 @@
 	<key>ScriptArgs</key>
 	<array/>
 	<key>ScriptPath</key>
-        <string>./BrowserSwitch.py</string>
+	<string>/Users/chryse/Proj/BrowserSwitch/BrowserSwitch.py</string>
 	<key>StatusItemDisplayType</key>
 	<string>Text</string>
 	<key>StatusItemIcon</key>
@@ -256,6 +258,6 @@
 	<key>UseXMLPlistFormat</key>
 	<false/>
 	<key>Version</key>
-	<string>1.2</string>
+	<string>1.3</string>
 </dict>
 </plist>
