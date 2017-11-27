@@ -4,7 +4,8 @@
         "patterns": [
             "[a-zA-Z0-9-_.]*\\.yandex-team.ru(?::[0-9]+)?",
             "partner2-local.yandex.ru(?::[0-9]+)?",
-            "partner-creator01[ef].yandex.ru(?::[0-9]+)?"
+            "partner-creator01[ef].yandex.ru(?::[0-9]+)?",
+            "partner2-test.yandex.ru"
         ]
     },
     {
